@@ -18,7 +18,7 @@ Guiarte paso a paso en la creación de tu propio **cerebro digital neorenacentis
 ---
 ## 📦 Estructura del repositorio
 
----
+```
 TallerDeBolsillo_ElPromptEresTu/
 |-- Vault/
 |  |--.obsidian/      # Configuraciones internas del Vault
@@ -27,7 +27,7 @@ TallerDeBolsillo_ElPromptEresTu/
 |  |-- 03 Recursos/     # Materiales inspiradores o citas potentes
 |  |-- DearAlice.md     # Ejemplo de carta/nota reflexiva al estilo Da Vinci
 |--REAMDE.md
----
+```
 
 ## 🔁 Automatización con n8n
 
