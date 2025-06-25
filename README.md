@@ -17,13 +17,16 @@ Guiarte paso a paso en la creación de tu propio **cerebro digital neorenacentis
 
 ---
 ## 📦 Estructura del repositorio
+
 ---
 TallerDeBolsillo_ElPromptEresTu/
-├──  .obsidian/ # Configuraciones internas del Vault
-├── Templates/ # Plantillas para notas rápidas o reflexiones guiadas
-├── Zettelkasten/ # Red de pensamientos interconectados
-├── 03 Recursos/ # Materiales inspiradores o citas potentes
-├── DearAlice.md # Ejemplo de carta/nota reflexiva al estilo Da Vinci
+|-- Vault/
+|  |--.obsidian/      # Configuraciones internas del Vault
+|  |-- Templates/       # Plantillas para notas rápidas o reflexiones guiadas
+|  |-- Zettelkasten/    # Red de pensamientos interconectados
+|  |-- 03 Recursos/     # Materiales inspiradores o citas potentes
+|  |-- DearAlice.md     # Ejemplo de carta/nota reflexiva al estilo Da Vinci
+|--REAMDE.md
 ---
 
 ## 🔁 Automatización con n8n
