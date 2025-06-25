@@ -26,7 +26,7 @@ TallerDeBolsillo_ElPromptEresTu/
 |  ├── Zettelkasten/    # Red de pensamientos interconectados
 |  ├── 03 Recursos/     # Materiales inspiradores o citas potentes
 |  ├── DearAlice.md     # Ejemplo de carta/nota reflexiva al estilo Da Vinci
-├── REAMDE.md
+├── README.md
 ```
 
 ## 🔁 Automatización con n8n
