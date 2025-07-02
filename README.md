@@ -60,11 +60,15 @@ Utilizamos **n8n** para crear un bot que conecta tu Vault de Obsidian con Telegr
 
 ---
 
-## 🔗 Recursos y Ejemplos de Terceros
+## 🔗 Recursos y Ejemplos Propios y de Terceros
 
-Este taller se enfoca en la creación de un cerebro digital personal, pero el campo de los agentes de IA es vasto y evoluciona rápidamente. Para inspirarte, aquí tienes algunos ejemplos de aplicaciones de IA y agentes construidos por la comunidad, extraídos del repositorio [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps):
+Este taller se enfoca en la creación de un cerebro digital personal y de AI-companions, pero el campo de los agentes de IA y automatizaciones es vasto y evoluciona rápidamente, deberías conocerlos :D. 
+
+### 🧠 Desarrollo Guiado por IA (Meta-Prompts)
+Para un enfoque estructurado en el desarrollo de software con IA, el repositorio [AIxDev](https://github.com/barbaritalaram/AIxDev) ofrece un framework que utiliza meta-prompts inspirados en las filosofías de **Linus Torvalds** y **John Carmack**. Es un recurso excelente para guiar a los LLMs en la creación de código limpio, eficiente y bien documentado.
 
 ### 🤖 Agentes de IA (Ejemplos)
+Para inspirarte, aquí tienes algunos ejemplos de aplicaciones de IA y agentes construidos por la comunidad, extraídos del repositorio [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps):
 
 #### 🌱 Agentes Iniciales
 - 🎙️ **AI Blog to Podcast Agent**: Convierte artículos de blog en podcasts.
@@ -93,10 +97,16 @@ hola@barbaritalara.com
 
 ---
 
+## ⚖️ Licencia
+
+Este trabajo está licenciado bajo la [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
 ## 🧵 Créditos
 
-Taller creado por [@barbaritalaram](https://github.com/barbaritalaram) y el a todo el equipo de EMERCOM.
-Visualización de flujos con n8n, inspiración filosófica de Leonardo y herramientas del siglo XXI.
+Taller creado por [@barbaritalaram](https://github.com/barbaritalaram) y el a todo el equipo de EMERCOM. Muchas gracias al equipo y en especial a @robertocarvajal ❤️.
 
 ---
 
