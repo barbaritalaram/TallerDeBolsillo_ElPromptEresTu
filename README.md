@@ -62,7 +62,7 @@ Utilizamos **n8n** para crear un bot que conecta tu Vault de Obsidian con Telegr
 
 ## 🔗 Recursos y Ejemplos Propios y de Terceros
 
-Este taller se enfoca en la creación de un cerebro digital personal y de AI-companions, pero el campo de los agentes de IA y automatizaciones es vasto y evoluciona rápidamente, deberías conocerlos :D. 
+Este taller se enfoca en la creación de un cerebro digital personal y de AI-companions, pero el campo de los agentes de IA y automatizaciones es vasto y evoluciona rápidamente, por lo mismo, te dejo ejemplos que te pueden ayudar a entender cómo y cuándo aplicarlos :D. 
 
 ### 🧠 Desarrollo Guiado por IA (Meta-Prompts)
 Para un enfoque estructurado en el desarrollo de software con IA, el repositorio [AIxDev](https://github.com/barbaritalaram/AIxDev) ofrece un framework que utiliza meta-prompts inspirados en las filosofías de **Linus Torvalds** y **John Carmack**. Es un recurso excelente para guiar a los LLMs en la creación de código limpio, eficiente y bien documentado.
