@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 Recursos/Dear Alice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -178,15 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd7d0d2cd4553f7f",
+  "active": "3a9afffe763c839f",
   "lastOpenFiles": [
-    "01 Proyectos/Aprender",
+    "Zettelkasten/Solarpunk.md",
+    "Zettelkasten/Agencia.md",
+    "Templates/Nota.md",
     "03 Recursos/Etiquetas.md",
     "03 Recursos/Plugins para Obisdian.md",
-    "Templates/Nota.md",
-    "Zettelkasten/Agencia.md",
-    "Zettelkasten/Solarpunk.md",
     "03 Recursos/Dear Alice.md",
+    "01 Proyectos/Aprender",
     "Welcome.md",
     "Templates/Atomic Note.md",
     "Templates",
